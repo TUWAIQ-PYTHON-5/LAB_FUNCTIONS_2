@@ -10,7 +10,7 @@ Also , you can think of it as A Prime Number is a number that cannot be made by 
 #### for example, primes between 25 and 50 are:
 29   
 31   
-37   
+37    
 41   
 43   
 47   
