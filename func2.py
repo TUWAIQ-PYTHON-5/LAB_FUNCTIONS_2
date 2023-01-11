@@ -13,8 +13,8 @@ def find_primes(x , y) -> None:
             print(numbers) 
 
 
-inputFirstNumber = int(input("the lower number "))
-inputSecandNumber = int(input("the biggest number "))
+FirstNumber = int(input("the lower number "))
+SecondNumber  = int(input("the biggest number "))
+find_primes(FirstNumber,SecondNumber)  
+               
 
-results = find_primes(inputFirstNumber,inputSecandNumber)                   
-print(results)
