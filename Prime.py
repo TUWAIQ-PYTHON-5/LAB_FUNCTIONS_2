@@ -18,7 +18,7 @@ Also , you can think of it as A Prime Number is a number that cannot be made by 
 
 
 def find_primes(lowestNum :int ,highestNum :int):
-    highestNum +=1
+    highestNum +=1 # For including the highest number in the calculation
     for loop1 in range(lowestNum, highestNum):
         for loop2 in range(2,loop1):
             if (loop1%loop2) == 0: 
